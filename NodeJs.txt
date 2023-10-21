@@ -1,0 +1,61 @@
+* Backend full stack - 
+
+1. node js and express fundamentals
+2. complex rest API's
+3. Mern app
+4. more Projects
+
+
+* Node js course - 
+
+1. Node fundamentals
+2. Express js
+3. MongoDB, Mongoose
+4. Applications
+5. Deployement
+
+* What is node js - 
+
+1. Environment to run the javascript outside the browser
+2. Built on the chromes v8 engine
+3. Big community
+4. Full-stack
+
+easier to built the apps using the nodes....
+
+
+* Difference between browsers js and node js
+
+browser                         Node js
+
+1. DOM                          1. No DOM
+2. Window                       2. No Window
+3. Interactive apps             3. Server side apps
+4. No Filesystem                4. Filesystem
+5. Fragmentation                5. Versions
+6. ES6 Modules                  6. CommonJS Modules
+
+
+* Global variables in the node - 
+
+// Global  - no Window object is available in Window
+
+// __dirname =  path to current directory
+// __filename = file name
+// require = function to use module (commonJs)
+// module = info about the current module
+// process = info about env where the program is being executed
+
+
+
+Module - Every file in node is module
+
+* Built in modules in node js - 
+
+1. OS
+2. Path 
+3. FS
+4. HTTP
+
+
+HTTP module is very important in the node
